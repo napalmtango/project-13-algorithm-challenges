@@ -1,3 +1,6 @@
+//Displaying this in code view shows proper indenting and line breaks
+
+
 //CodeWars
 
 // Given a non-empty array of integers, return the result of multiplying the values together in order. 
