@@ -18,7 +18,7 @@ function grow(x){
 }
 
 
-//testing example case
+//logging example case shows expected output
 console.log(grow([1, 2, 3, 4])) 
 
 
